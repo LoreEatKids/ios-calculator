@@ -1,2 +1,3 @@
 # ios-calculator
-fully working calculator like ios one
+Preview:
+![preview img](https://github.com/LoreEatKids/ios-calculator/blob/main/preview.png?raw=true)
